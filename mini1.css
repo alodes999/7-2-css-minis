@@ -1,0 +1,31 @@
+.leftcolumn {
+  float: left;
+  width: 40%;
+  padding: 10px;
+}
+
+.leftcolumn h2{
+  margin-bottom: 0;
+}
+
+.leftcolumn p {
+  margin: 0;
+  font-size: 12;
+}
+
+.leftcolumn h4 {
+  margin-top: 0;
+}
+
+.leftcolumn img {
+  display: inline-block;
+}
+
+.commentpic p {
+  display: inline-block;
+  margin-top: 20px;
+}
+
+h1 {
+  height: 1000px;
+}
