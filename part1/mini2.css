@@ -1,0 +1,40 @@
+h2 {
+  margin-bottom: 0;
+}
+
+.leftcolumn {
+  float: left;
+}
+
+.leftcolumn h2 {
+  margin-bottom: 0;
+}
+
+.leftcolumn h4, p {
+  display: inline-block;
+  margin: 0;
+}
+
+.leftcolumn h4 {
+  font-weight: lighter;
+  font-size: small;
+  color: purple;
+}
+
+.leftcolumn p {
+  color: grey;
+}
+
+.leftcolumn h3 {
+  margin: 0;
+  font-weight: normal;
+  font-size: 1.12em;
+}
+
+.rightpic {
+  float: right;
+  weight: 25%;
+  position: relative;
+  top: 0;
+  right: 0;
+}
