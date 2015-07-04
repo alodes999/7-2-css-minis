@@ -1,0 +1,9 @@
+.leftcolumn {
+  float: left;
+  width: 25%;
+}
+
+.bottombox {
+  position: relative;
+  bottom: 5px;
+}
