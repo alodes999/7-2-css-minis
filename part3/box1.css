@@ -1,0 +1,59 @@
+html {
+  font-family: Arial;
+}
+
+.secondrow {
+  color: gray;
+}
+
+.secondrow h1 {
+  margin: 10px 0;
+}
+
+.thirdrow {
+  position: relative;
+}
+
+.thirdrow .pic {
+  float: left;
+  margin-right: 5px;
+}
+
+.thirdrow p {
+  display: inline;
+  color: gray;
+  font-size: .9em;
+}
+
+.thirdrow h4 {
+  display: inline;
+  margin-left: 5px;
+  font-size: .9em;
+}
+
+.thirdrow h3 {
+  margin-left: 30px;
+  margin-top: 0;
+  color: gray;
+  font-size: .9em;
+  font-weight: normal;
+}
+
+.thirdrow .pic2 {
+  display: inline-block;
+  float: left;
+  position: absolute;
+  top: 0px;
+  left: 270px;
+}
+
+.fourthrow h2 {
+  margin: 0;
+  font-size: 1em;
+  color: gray;
+}
+
+.fourthrow h1 {
+  margin: 0;
+  font-size: 1em;
+}
