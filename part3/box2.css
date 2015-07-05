@@ -1,0 +1,31 @@
+.pic1 {
+  float: left;
+  width: 248px;
+  position: relative;
+  top: -5px;
+  left: 1px;
+}
+
+.pic2 {
+  float: left;
+  width: 248px;
+  position: relative;
+  left: 0;
+  top: -5px;
+}
+
+.pic3 {
+  float: left;
+  width: 248px;
+  position: relative;
+  left: -6px;
+  top: -4px;
+}
+
+.pic4 {
+  float: left;
+  width: 248px;
+  position: relative;
+  left: -11px;
+  top: -4px;
+}
