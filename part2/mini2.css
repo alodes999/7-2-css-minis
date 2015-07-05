@@ -1,0 +1,13 @@
+.leftcolumn {
+  float: left;
+  width: 60%;
+}
+
+.leftcolumn img {
+  max-width: 100%;
+}
+
+
+.rightcolumn {
+  width: auto;
+}
